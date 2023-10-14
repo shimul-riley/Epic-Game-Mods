@@ -1,6 +1,5 @@
 ## Epic-Game-Mods
-I've always wanted to build a platform which provides free game mods.
 
-Even though you can not download any of the games expect 'Zombie Roadkill' because github doesn't allow files over 25mb to be uploaded But you can definitely take a look at the site.
+You can not download any of the games expect 'Zombie Roadkill' because i can't upload file sized over 25mb But you can just take a look at the site.
 
-## [Visit site](https://shimul0022.github.io/Epic-Game-Mods/)
+## [Visit site](https://shimul-riley.github.io/Epic-Game-Mods/)
